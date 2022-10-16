@@ -94,7 +94,7 @@ document.querySelector("#form-submit").addEventListener("click", function (e) {
       username.value +
         ", your " +
         `$${totalPrice}` +
-        " worth of order is received. You will send you the boxses soon!"
+        " worth of order is received. We will send you the order soon!"
     );
 
     // clearform
@@ -113,6 +113,6 @@ document.querySelector("#form-submit").addEventListener("click", function (e) {
     localStorage.removeItem("totalCartPriceWithCupon");
     localStorage.removeItem("totalQuantity");
     localStorage.removeItem("discountAmount");
-    window.location.href = "/overrated-impulse-4022/Home page/Homepage.html";
+    window.location.href = "/index.html";
   }
 });

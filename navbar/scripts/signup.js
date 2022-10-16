@@ -25,7 +25,7 @@ let fun=()=>{
             console.log(newUser)
             userlist.push(newUser)
             let list=localStorage.setItem("userInfo",JSON.stringify(userlist))
-            window.location.href="/overrated-impulse-4022/navbar/login.html"
+            window.location.href="/navbar/login.html"
         }
         else{
             alert("Password is not same re-enter the correct password")

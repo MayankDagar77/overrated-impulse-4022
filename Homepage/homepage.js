@@ -25,7 +25,7 @@
     carosel(count)
     let kids=document.getElementById("kid")
     kids.addEventListener("click",function(){
-      window.location.href="/overrated-impulse-4022/kids_shoes/kids.html"
+      window.location.href="/kids_shoes/kids.html"
     })
 
 function leftSlider(){
@@ -79,22 +79,22 @@ let arr_of_images=[
     });
 function displaydata(el){
     if(el.title==="Sneakers & Athletic Shoes"){
-        window.location.href="/overrated-impulse-4022/Athlete shoes/athlete.html"
+        window.location.href="/Athlete shoes/athlete.html"
     }
     else if(el.title==="Sandals"){
-        window.location.href="/overrated-impulse-4022/sandals/sandals.html"
+        window.location.href="/sandals/sandals.html"
     }
     else if(el.title==="dresses"){
-        window.location.href="/overrated-impulse-4022/Dresses/dresses.html"
+        window.location.href="/Dresses/dresses.html"
     }
     else if(el.title==="Backpacks for School"){
-        window.location.href="/overrated-impulse-4022/Backpacks/backpack.html"
+        window.location.href="/Backpacks/backpack.html"
     }
     else if(el.title==="Swimwear"){
-        window.location.href="/overrated-impulse-4022/Swim Wear/swimwear.html"
+        window.location.href="/Swim Wear/swimwear.html"
     }
     else if(el.title==="Wedges"){
-        window.location.href="/overrated-impulse-4022/Wedges/wedges.html"
+        window.location.href="/Wedges/wedges.html"
     }
     
 
@@ -156,11 +156,11 @@ arr_of_images3.forEach(function(el){
 
 function redirect(el){
     if(el.title=='Diversity Equity & Inclusion'){
-        window.location.href="/overrated-impulse-4022/Zappos one purpose/purpose.html"
+        window.location.href="/Zappos one purpose/purpose.html"
     }else if(el.title=="Zappos for Good"){
-        window.location.href="/overrated-impulse-4022/Zappos for good/zappos good.html" 
+        window.location.href="/Zappos for good/zappos good.html" 
     }else{
-        window.location.href="/overrated-impulse-4022/Zappos Goods for Good/goods for good.html"
+        window.location.href="/Zappos Goods for Good/goods for good.html"
 
     }
 }
@@ -346,7 +346,7 @@ foot.innerHTML=footer()
 
 let btn=document.getElementById("signin")
 btn.addEventListener("click",function(){
-    window.location.href="/overrated-impulse-4022/navbar/signup.html"
+    window.location.href="/navbar/signup.html"
 })
 let userlist=JSON.parse(localStorage.getItem("userInfo"))||[]
 let accountHolder=""
@@ -367,18 +367,18 @@ else{
 }
 let cart=document.getElementById("cart")
 cart.addEventListener("click",function(){
-    window.location.href="/overrated-impulse-4022/cart and payment/cart/cart.html"
+    window.location.href="/cart and payment/cart/cart.html"
 })
 
 let first=document.getElementById("firstimg")
 first.addEventListener("click",function(){
-    window.location.href="/overrated-impulse-4022/snicker_section/shoes_snickers.html"
+    window.location.href="/snicker_section/shoes_snickers.html"
 })
 
 
 let final=document.getElementById("image")
 final.addEventListener("click",function(){
-    window.location.href="/overrated-impulse-4022/AffterPay/afterpay.html"
+    window.location.href="/AffterPay/afterpay.html"
 })
 
 
@@ -500,17 +500,17 @@ function storeData(el){
     //let list=JSON.parse(localStorage.getItem("productinfo"))||[]
     //list.push(el)
     localStorage.setItem("productinfo",JSON.stringify(el))
-    window.location.href="/overrated-impulse-4022/product_page/product.html"
+    window.location.href="/product_page/product.html"
     }
 
     let suedes=document.querySelector(".suedes")
     suedes.addEventListener("click",function(){
-        window.location.href="/overrated-impulse-4022/slippers/slippers.html"
+        window.location.href="/slippers/slippers.html"
     })
 
     let suede=document.querySelector(".suede")
     suede.addEventListener("click",function(){
         console.log("ganesh")
-        window.location.href="/overrated-impulse-4022/slippers/slippers.html"
+        window.location.href="/slippers/slippers.html"
     })
  

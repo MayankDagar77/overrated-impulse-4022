@@ -7,7 +7,7 @@ nav.innerHTML=navbar()
 
 let btn=document.getElementById("signin")
 btn.addEventListener("click",function(){
-    window.location.href="/overrated-impulse-4022/navbar/signup.html"
+    window.location.href="/navbar/signup.html"
 })
 let userlist=JSON.parse(localStorage.getItem("userInfo"))||[]
 let accountHolder=""
@@ -28,6 +28,6 @@ else{
 }
 let cart=document.getElementById("cart")
 cart.addEventListener("click",function(){
-    window.location.href="/overrated-impulse-4022/cart and payment/cart/cart.html"
+    window.location.href="/cart and payment/cart/cart.html"
 })
 

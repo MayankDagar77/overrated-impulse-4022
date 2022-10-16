@@ -1,5 +1,5 @@
 let sign=()=>{
-    window.location.href="/overrated-impulse-4022/navbar/signup.html"
+    window.location.href="/navbar/signup.html"
 }
 
 
@@ -10,7 +10,7 @@ let fun=()=>{
     userlist.forEach((el)=>{
         if(email===el.email&&pwd===el.password){
             let login=localStorage.setItem("userlogin","successfull")
-            window.location.href="/overrated-impulse-4022/Home page/Homepage.html"
+            window.location.href="../index.html"
         }
         else{
             alert("Invalid Credentials or User not found")

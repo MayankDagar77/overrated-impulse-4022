@@ -78,11 +78,11 @@ function footer(){
             <button>TAKE SURVEY</button>
             <h3>Connect with us</h3>
         <div id="logo" >
-            <img src="/overrated-impulse-4022/navbar/social/fb.png" alt="">
-            <img src="/overrated-impulse-4022/navbar/social/insta.png" alt="">
-            <img src="/overrated-impulse-4022/navbar/social/pin.png" alt="">
-            <img src="/overrated-impulse-4022/navbar/social/you.png" alt="">
-            <img src="/overrated-impulse-4022/navbar/social/twitter.png" alt="">    
+            <img src="/navbar/social/fb.png" alt="">
+            <img src="/navbar/social/insta.png" alt="">
+            <img src="/navbar/social/pin.png" alt="">
+            <img src="/navbar/social/you.png" alt="">
+            <img src="/navbar/social/twitter.png" alt="">    
         </div>
    </div>`
 }

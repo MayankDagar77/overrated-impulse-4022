@@ -77,7 +77,7 @@ document.getElementById("cartbutton").addEventListener("click", function(e) {
     cart.push(list)
     localStorage.setItem("cart",JSON.stringify(cart))
     localStorage.setItem('items',cart.length)
-    window.location.href="/overrated-impulse-4022/cart and payment/cart/cart.html"
+    window.location.href="/cart and payment/cart/cart.html"
     })
 
 let list=JSON.parse(localStorage.getItem("productinfo"))
