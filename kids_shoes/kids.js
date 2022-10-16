@@ -200,5 +200,5 @@ let size=document.createElement("div")
     //  let list=JSON.parse(localStorage.getItem("productinfo"))
     //  list.push(el)
      localStorage.setItem("productinfo",JSON.stringify(el))
-     window.location.href="/overrated-impulse-4022/product_page/product.html"
+     window.location.href="/product_page/product.html"
      }

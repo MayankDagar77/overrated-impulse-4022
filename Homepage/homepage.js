@@ -367,7 +367,7 @@ else{
 }
 let cart=document.getElementById("cart")
 cart.addEventListener("click",function(){
-    window.location.href="/cart and payment/cart/cart.html"
+    window.location.href="/cartandpayment/cart/cart.html"
 })
 
 let first=document.getElementById("firstimg")
