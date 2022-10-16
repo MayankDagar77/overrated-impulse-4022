@@ -387,22 +387,22 @@ let searchbtn=document.getElementById("srch")
 searchbtn.addEventListener("click",function(){
     let query=document.getElementById("search").value
     if(query==="kid"){
-        window.location.href='/overrated-impulse-4022/kids_shoes/kids.html'
+        window.location.href='../kids_shoes/kids.html'
     }
     else if(query==="womens"){
-        window.location.href='/overrated-impulse-4022/Dresses/dresses.html'
+        window.location.href='../Dresses/dresses.html'
     }
     else if(query==="sandals"){
-        window.location.href='/overrated-impulse-4022/sandals/sandals.html'
+        window.location.href='../sandals/sandals.html'
     }
     else if(query==="sneakers"){
-        window.location.href='/overrated-impulse-4022/snicker_section/shoes_snickers.html'
+        window.location.href='../snicker_section/shoes_snickers.html'
     }
     else if(query==="Athletics"){
-        window.location.href='/overrated-impulse-4022/Athlete shoes/athlete.html'
+        window.location.href='../Athlete shoes/athlete.html'
     }
     else if(query==="swimwear"){
-        window.location.href='/overrated-impulse-4022/Swim Wear/swimwear.html'
+        window.location.href='../Swim Wear/swimwear.html'
     }
 })
 let firstLeft =document.getElementById("slideLeft")
