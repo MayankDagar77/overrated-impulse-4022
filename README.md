@@ -5,7 +5,7 @@ This is the repository for clone of zappos website
 
 # Zapoos
 
-> [Best Buy](https://www.bestbuy.com/) is a provider of consumer technology products and services. The Company offers a range of merchandise and services to its customers, including computing and mobile phones, consumer electronics, appliances, entertainment and other products. Its services include consultation, delivery, design, health-related services, installation, memberships, repair, set-up, technical support, and warranty-related services.
+> [Zapoos](https://www.zappos.com/) is a provider of consumer technology products and services. The Company offers a range of merchandise and services to its customers, including computing and mobile phones, consumer electronics, appliances, entertainment and other products. Its services include consultation, delivery, design, health-related services, installation, memberships, repair, set-up, technical support, and warranty-related services.
 
 > Cloned BestBuy.com website during the construct week at [Masai School](https://masaischool.com/). Completed the project in six days with a team of six members and implemented the maximum user centric functionality.
 
