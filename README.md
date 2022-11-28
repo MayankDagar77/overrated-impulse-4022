@@ -3,7 +3,7 @@ This is the repository for clone of zappos website
 
 ![Logo](https://github.com/mayurisamanta/Best-Buyers/blob/main/Assets-1/best_buy.png?raw=true)
 
-# Bestbuy.com
+# Zapoos
 
 > [Best Buy](https://www.bestbuy.com/) is a provider of consumer technology products and services. The Company offers a range of merchandise and services to its customers, including computing and mobile phones, consumer electronics, appliances, entertainment and other products. Its services include consultation, delivery, design, health-related services, installation, memberships, repair, set-up, technical support, and warranty-related services.
 
@@ -69,15 +69,15 @@ This is the repository for clone of zappos website
 
 # Contributors
 
-#### Sushank Mandal
+#### Mayank Dagar
 > Github: [sushank678](https://github.com/sushank678)
 Worked on All appliances, Phones, Laptop page
 
-#### Rohan Mourya
+#### Ganesh Ganta
 > Github: [rohan209547mourya](https://github.com/rohan209547mourya)
 Worked on Footer, Login, Accounts page
 
-#### Mayuri Samanta
+#### Priyank Choudhary
 > Github: [mayurisamanta](https://github.com/mayurisamanta)
 Worked on Navbar, Homepage
 
